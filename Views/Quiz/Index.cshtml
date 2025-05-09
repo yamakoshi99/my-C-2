@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "✕〇";
+}
+
+<div class="container">
+    <div class="d-flex flex-column mb-4">
+        <h1 class="display-4 mb-3">丸罰クイズ</h1>
+        <p class="mb-3">各問題にチャレンジしてみてください。</p>
+        <div id="quiz-area">
+            <a
+                id="Q1Button"
+                class="btn btn-primary"
+                href="#"
+                role="button"
+                onclick="startQuiz('Q1: お金は「物々交換」の代わりに使われるものです。', true, 10); return false;"
+            >第1問</a>
+            <a
+                id="Q2Button"
+                class="btn btn-primary"
+                href="#"
+                role="button"
+                onclick="startQuiz('Q2: お金の価値は常にかわらない。', false, 10); return false;"
+            >第2問</a>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/quiz.js"></script>
+}

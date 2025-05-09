@@ -1,0 +1,81 @@
+﻿@model IEnumerable<my_C_2.Models.Book>
+
+@{
+    ViewData["Title"] = "基礎知識";
+}
+
+<div class="container">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1 class="display-4">基礎知識</h1>
+    </div>
+    <div class="accordion mt-4" id="knowledgeAccordion">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    1. お金ってなあに？
+                </button>
+            </h2>
+            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#knowledgeAccordion">
+                <div class="accordion-body">
+                    お金はね、みんなが欲しい物（おもちゃや本、お菓子とか）や、してもらうこと（バスに乗る、髪を切ってもらうとか）と、交換するための「チケット」みたいなものだよ。<br>
+                    もしお金がなかったら、欲しい物があったら自分の持っている物と相手の欲しい物をじょうずに交換しないといけない。例えば、りんごが欲しいのに、相手がりんごはいらないから自分の持っているおもちゃと交換しようって言ったら、ちょっと困っちゃうよね？<br>
+                    でも、お金があれば、どんな物やサービスも同じお金というチケットで交換できるから、とっても便利なんだ。だから、お買い物をする時や、電車やバスに乗る時にお金が必要になるんだよ。
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingTwo">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    2. どうやったらお金が増えるの？（働く以外で）
+                </button>
+            </h2>
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#knowledgeAccordion">
+                <div class="accordion-body">
+                    一番分かりやすいのは、お父さんやお母さんがお仕事をしてお給料をもらうことだよね。これが「働く」ことでお金が増える方法。<br>
+                    でも、それ以外にもお金が増える方法があるんだ。いくつか例をあげるね。<br>
+                    <ul>
+                        <li>おこづかいを貯金箱に入れる: 使うのを我慢して貯めていくと、少しずつお金が増えていくね。</li>
+                        <li>銀行にお金を預ける: 銀行はきみが預けたお金を大切に預かってくれて、そのお礼にほんの少しだけお金を増やしてくれることがあるんだ。（これは「利子」というものだよ。）</li>
+                        <li>「投資」をする: これが少し難しいお話だけど、例えば頑張っている会社を「応援する」気持ちで、会社にお金を貸してあげたり（これは「株」というものだったりするよ）、会社が立てるビルにお金を貸してあげたり（これは「投資信託」というものだったりするよ）するんだ。そうすると、会社が儲かった時に、応援してくれたお礼として、貸したお金に少しプラスしてお金を返してくれることがあるんだ。これが「投資」でお金を増やす方法の一つだよ。</li>
+                    </ul>
+                    働くこと以外では、<strong>持っているお金に「働いてもらう」</strong>ことでお金が増えると考えられているんだ。貯金も、投資も、お金が少しずつ、あるいはちょっぴり頑張って、仲間を連れてきてくれるイメージかな？
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    3. 投資ってなあに？
+                </button>
+            </h2>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#knowledgeAccordion">
+                <div class="accordion-body">
+                    投資というのはね、自分のお金を色々なところで「働かせたり」「応援したり」して、今あるお金よりもっと増やそうとすることだよ。<br>
+                    例えば、さっきも言ったように、頑張っている会社の応援団になるみたいなイメージかな。会社が「新しいお店を作りたいんだけど、お金が足りないな」って困っていたら、「よし、僕のお金を使っていいよ！その代わり、お店が繁盛したら、ちょっとだけお礼をくれると嬉しいな」って言って、お金を貸してあげる感じ。<br>
+                    もちろん、会社が上手くいかない時もあるから、お金が増えないこともあるし、応援したお金が少し減ってしまうこともあるかもしれない。でも、会社がとっても儲かったら、貸したお金よりもたくさんのお金がお礼としてもらえる可能性があるんだ。<br>
+                    投資は、すぐにたくさんお金が増えるわけではないけれど、長い時間をかけて、お金がちょこちょこ働いてくれて、すこしずつ増えていくことを目指すものなんだよ。
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingFour">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                    4. どうやって投資を始めるの？
+                </button>
+            </h2>
+            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#knowledgeAccordion">
+                <div class="accordion-body">
+                    投資を始めるにはまず証券口座を開設することが大切だよ。<br>
+                    その後、投資したい商品を選んで、少しずつお金を使ってみるといいよ。<br>
+                    <ul>
+                        <li>投資信託を利用する: これは少しお金を集めて、専門家に運用してもらう方法だよ。</li>
+                        <li>銀行にお金を預ける: 銀行はきみが預けたお金を大切に預かってくれて、そのお礼にほんの少しだけお金を増やしてくれることがあるんだ。（これは「利子」というものだよ。）</li>
+                        <li>「投資」をする: これが少し難しいお話だけど、例えば頑張っている会社を「応援する」気持ちで、会社にお金を貸してあげたり（これは「株」というものだったりするよ）、会社が立てるビルにお金を貸してあげたり（これは「投資信託」というものだったりするよ）するんだ。そうすると、会社が儲かった時に、応援してくれたお礼として、貸したお金に少しプラスしてお金を返してくれることがあるんだ。これが「投資」でお金を増やす方法の一つだよ。</li>
+                    </ul>
+                    働くこと以外では、<strong>持っているお金に「働いてもらう」</strong>ことでお金が増えると考えられているんだ。貯金も、投資も、お金が少しずつ、あるいはちょっぴり頑張って、仲間を連れてきてくれるイメージかな？
+                    <img src="~/images/chrome_6UyyYDCn75.png" alt="投資のイメージ" class="img-fluid mt-3" style="max-width: 100%; height: auto;">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
