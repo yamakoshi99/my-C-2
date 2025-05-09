@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eHYe/aBRFvd9+Rzq5YoVQqf3I6gEHtG9zct5ZJczmIo=",
+  "Hash": "VwBs00oowwYMOAU0cMHM4U8uizMOe9Ti4QsM7kbAFwc=",
   "Source": "my-C#2",
   "BasePath": "_content/my-C#2",
   "Mode": "Default",
@@ -59,12 +59,12 @@
       "OriginalItemSpec": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\0yzoxay88q-nawm79up4n.gz",
+      "Identity": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\0yzoxay88q-zisx483vrd.gz",
       "SourceId": "my-C#2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/my-C#2",
-      "RelativePath": "js/quiz#[.{fingerprint=nawm79up4n}]?.js.gz",
+      "RelativePath": "js/quiz#[.{fingerprint=zisx483vrd}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -73,8 +73,8 @@
       "RelatedAsset": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\js\\quiz.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "us8mzb7msg",
-      "Integrity": "8iorf1qC3BqSQHvErbQQOo6scs1kGY2hRPxSaeI61WI=",
+      "Fingerprint": "j91w0bk1nx",
+      "Integrity": "Z1ri2jp9ss1ACo8KGgoBBgVSCXiplvbQ4XHgJMS3qKM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\js\\quiz.js"
@@ -624,6 +624,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\is3dht2a20-kjrz6xslhq.gz",
+      "SourceId": "my-C#2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/my-C#2",
+      "RelativePath": "js/planner#[.{fingerprint=kjrz6xslhq}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\js\\planner.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "rl42xthyol",
+      "Integrity": "MZcLRzIj4eapKAGYzosfH+TY6cI0+kT5s2D3ogn81+c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\js\\planner.js"
     },
     {
       "Identity": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\j9gkp7ndv7-notf2xhcfb.gz",
@@ -1193,12 +1214,12 @@
       "OriginalItemSpec": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\wf2fglqy4o-ywh66ysinq.gz",
+      "Identity": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\wf2fglqy4o-d7c2hxxt0y.gz",
       "SourceId": "my-C#2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/my-C#2",
-      "RelativePath": "js/simulator#[.{fingerprint=ywh66ysinq}]?.js.gz",
+      "RelativePath": "js/simulator#[.{fingerprint=d7c2hxxt0y}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1207,8 +1228,8 @@
       "RelatedAsset": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\js\\simulator.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "o3gb76r4ot",
-      "Integrity": "RBUHXrhLuXQqbj85xmi24zp84wVs45xfDQ952sTAfL8=",
+      "Fingerprint": "24gvqhwnxh",
+      "Integrity": "UmG0QvWjiuBDExqIwkUHtjTsZn3M45omoVDMU1//y18=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\js\\simulator.js"
@@ -1508,6 +1529,27 @@
       "OriginalItemSpec": "wwwroot\\images\\chrome_6UyyYDCn75.png"
     },
     {
+      "Identity": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\js\\planner.js",
+      "SourceId": "my-C#2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\",
+      "BasePath": "_content/my-C#2",
+      "RelativePath": "js/planner#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kjrz6xslhq",
+      "Integrity": "MGCso/MMAKpG2+sVjWbil5QqiD7OGby5PekX0PdCeMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\planner.js"
+    },
+    {
       "Identity": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\js\\quiz.js",
       "SourceId": "my-C#2",
       "SourceType": "Discovered",
@@ -1522,8 +1564,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "nawm79up4n",
-      "Integrity": "/5e7Ms8HpIJXnQ5WgleEJoCUI40Vxr+G9o5EmybmOO0=",
+      "Fingerprint": "zisx483vrd",
+      "Integrity": "q6JZYElceRhxbyWwfVypFOYkKFu3eOq/Nrpoqq/kzwk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\quiz.js"
@@ -1543,8 +1585,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ywh66ysinq",
-      "Integrity": "Mm7t4HlC8XF+iLCMB7YkgXlsMFhw/z+HfAPZae9aSF8=",
+      "Fingerprint": "d7c2hxxt0y",
+      "Integrity": "tzD1rrhNK7WYWhKkhtbuoHwfB6XRsmtCNaVqomA39Ps=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\simulator.js"
@@ -3511,13 +3553,13 @@
       ]
     },
     {
-      "Route": "js/quiz.js",
-      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\0yzoxay88q-nawm79up4n.gz",
+      "Route": "js/planner.js",
+      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\is3dht2a20-kjrz6xslhq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001146788991"
+          "Quality": "0.000315357931"
         }
       ],
       "ResponseHeaders": [
@@ -3527,15 +3569,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "871"
+          "Value": "3170"
         },
         {
           "Name": "ETag",
-          "Value": "\"8iorf1qC3BqSQHvErbQQOo6scs1kGY2hRPxSaeI61WI=\""
+          "Value": "\"MZcLRzIj4eapKAGYzosfH+TY6cI0+kT5s2D3ogn81+c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:31:26 GMT"
+          "Value": "Fri, 09 May 2025 06:49:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3555,13 +3597,311 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/5e7Ms8HpIJXnQ5WgleEJoCUI40Vxr+G9o5EmybmOO0=\""
+          "Value": "W/\"MGCso/MMAKpG2+sVjWbil5QqiD7OGby5PekX0PdCeMk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/5e7Ms8HpIJXnQ5WgleEJoCUI40Vxr+G9o5EmybmOO0="
+          "Value": "sha256-MGCso/MMAKpG2+sVjWbil5QqiD7OGby5PekX0PdCeMk="
+        }
+      ]
+    },
+    {
+      "Route": "js/planner.js",
+      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\js\\planner.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MGCso/MMAKpG2+sVjWbil5QqiD7OGby5PekX0PdCeMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 06:49:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MGCso/MMAKpG2+sVjWbil5QqiD7OGby5PekX0PdCeMk="
+        }
+      ]
+    },
+    {
+      "Route": "js/planner.js.gz",
+      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\is3dht2a20-kjrz6xslhq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MZcLRzIj4eapKAGYzosfH+TY6cI0+kT5s2D3ogn81+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 06:49:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MZcLRzIj4eapKAGYzosfH+TY6cI0+kT5s2D3ogn81+c="
+        }
+      ]
+    },
+    {
+      "Route": "js/planner.kjrz6xslhq.js",
+      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\is3dht2a20-kjrz6xslhq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000315357931"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3170"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MZcLRzIj4eapKAGYzosfH+TY6cI0+kT5s2D3ogn81+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 06:49:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MGCso/MMAKpG2+sVjWbil5QqiD7OGby5PekX0PdCeMk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kjrz6xslhq"
+        },
+        {
+          "Name": "label",
+          "Value": "js/planner.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MGCso/MMAKpG2+sVjWbil5QqiD7OGby5PekX0PdCeMk="
+        }
+      ]
+    },
+    {
+      "Route": "js/planner.kjrz6xslhq.js",
+      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\js\\planner.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MGCso/MMAKpG2+sVjWbil5QqiD7OGby5PekX0PdCeMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 06:49:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kjrz6xslhq"
+        },
+        {
+          "Name": "label",
+          "Value": "js/planner.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MGCso/MMAKpG2+sVjWbil5QqiD7OGby5PekX0PdCeMk="
+        }
+      ]
+    },
+    {
+      "Route": "js/planner.kjrz6xslhq.js.gz",
+      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\is3dht2a20-kjrz6xslhq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MZcLRzIj4eapKAGYzosfH+TY6cI0+kT5s2D3ogn81+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 06:49:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kjrz6xslhq"
+        },
+        {
+          "Name": "label",
+          "Value": "js/planner.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MZcLRzIj4eapKAGYzosfH+TY6cI0+kT5s2D3ogn81+c="
+        }
+      ]
+    },
+    {
+      "Route": "js/quiz.js",
+      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\0yzoxay88q-zisx483vrd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000877963126"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1138"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z1ri2jp9ss1ACo8KGgoBBgVSCXiplvbQ4XHgJMS3qKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 06:59:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"q6JZYElceRhxbyWwfVypFOYkKFu3eOq/Nrpoqq/kzwk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q6JZYElceRhxbyWwfVypFOYkKFu3eOq/Nrpoqq/kzwk="
         }
       ]
     },
@@ -3576,7 +3916,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2090"
+          "Value": "2566"
         },
         {
           "Name": "Content-Type",
@@ -3584,11 +3924,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/5e7Ms8HpIJXnQ5WgleEJoCUI40Vxr+G9o5EmybmOO0=\""
+          "Value": "\"q6JZYElceRhxbyWwfVypFOYkKFu3eOq/Nrpoqq/kzwk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:31:26 GMT"
+          "Value": "Fri, 09 May 2025 06:59:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3598,13 +3938,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/5e7Ms8HpIJXnQ5WgleEJoCUI40Vxr+G9o5EmybmOO0="
+          "Value": "sha256-q6JZYElceRhxbyWwfVypFOYkKFu3eOq/Nrpoqq/kzwk="
         }
       ]
     },
     {
       "Route": "js/quiz.js.gz",
-      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\0yzoxay88q-nawm79up4n.gz",
+      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\0yzoxay88q-zisx483vrd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3613,7 +3953,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "871"
+          "Value": "1138"
         },
         {
           "Name": "Content-Type",
@@ -3621,11 +3961,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8iorf1qC3BqSQHvErbQQOo6scs1kGY2hRPxSaeI61WI=\""
+          "Value": "\"Z1ri2jp9ss1ACo8KGgoBBgVSCXiplvbQ4XHgJMS3qKM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:31:26 GMT"
+          "Value": "Fri, 09 May 2025 06:59:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3643,18 +3983,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8iorf1qC3BqSQHvErbQQOo6scs1kGY2hRPxSaeI61WI="
+          "Value": "sha256-Z1ri2jp9ss1ACo8KGgoBBgVSCXiplvbQ4XHgJMS3qKM="
         }
       ]
     },
     {
-      "Route": "js/quiz.nawm79up4n.js",
-      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\0yzoxay88q-nawm79up4n.gz",
+      "Route": "js/quiz.zisx483vrd.js",
+      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\0yzoxay88q-zisx483vrd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001146788991"
+          "Quality": "0.000877963126"
         }
       ],
       "ResponseHeaders": [
@@ -3664,15 +4004,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "871"
+          "Value": "1138"
         },
         {
           "Name": "ETag",
-          "Value": "\"8iorf1qC3BqSQHvErbQQOo6scs1kGY2hRPxSaeI61WI=\""
+          "Value": "\"Z1ri2jp9ss1ACo8KGgoBBgVSCXiplvbQ4XHgJMS3qKM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:31:26 GMT"
+          "Value": "Fri, 09 May 2025 06:59:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3692,13 +4032,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/5e7Ms8HpIJXnQ5WgleEJoCUI40Vxr+G9o5EmybmOO0=\""
+          "Value": "W/\"q6JZYElceRhxbyWwfVypFOYkKFu3eOq/Nrpoqq/kzwk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nawm79up4n"
+          "Value": "zisx483vrd"
         },
         {
           "Name": "label",
@@ -3706,12 +4046,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/5e7Ms8HpIJXnQ5WgleEJoCUI40Vxr+G9o5EmybmOO0="
+          "Value": "sha256-q6JZYElceRhxbyWwfVypFOYkKFu3eOq/Nrpoqq/kzwk="
         }
       ]
     },
     {
-      "Route": "js/quiz.nawm79up4n.js",
+      "Route": "js/quiz.zisx483vrd.js",
       "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\js\\quiz.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3721,7 +4061,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2090"
+          "Value": "2566"
         },
         {
           "Name": "Content-Type",
@@ -3729,11 +4069,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/5e7Ms8HpIJXnQ5WgleEJoCUI40Vxr+G9o5EmybmOO0=\""
+          "Value": "\"q6JZYElceRhxbyWwfVypFOYkKFu3eOq/Nrpoqq/kzwk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:31:26 GMT"
+          "Value": "Fri, 09 May 2025 06:59:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3743,7 +4083,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nawm79up4n"
+          "Value": "zisx483vrd"
         },
         {
           "Name": "label",
@@ -3751,13 +4091,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/5e7Ms8HpIJXnQ5WgleEJoCUI40Vxr+G9o5EmybmOO0="
+          "Value": "sha256-q6JZYElceRhxbyWwfVypFOYkKFu3eOq/Nrpoqq/kzwk="
         }
       ]
     },
     {
-      "Route": "js/quiz.nawm79up4n.js.gz",
-      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\0yzoxay88q-nawm79up4n.gz",
+      "Route": "js/quiz.zisx483vrd.js.gz",
+      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\0yzoxay88q-zisx483vrd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3766,7 +4106,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "871"
+          "Value": "1138"
         },
         {
           "Name": "Content-Type",
@@ -3774,11 +4114,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8iorf1qC3BqSQHvErbQQOo6scs1kGY2hRPxSaeI61WI=\""
+          "Value": "\"Z1ri2jp9ss1ACo8KGgoBBgVSCXiplvbQ4XHgJMS3qKM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:31:26 GMT"
+          "Value": "Fri, 09 May 2025 06:59:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3796,7 +4136,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nawm79up4n"
+          "Value": "zisx483vrd"
         },
         {
           "Name": "label",
@@ -3804,18 +4144,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8iorf1qC3BqSQHvErbQQOo6scs1kGY2hRPxSaeI61WI="
+          "Value": "sha256-Z1ri2jp9ss1ACo8KGgoBBgVSCXiplvbQ4XHgJMS3qKM="
         }
       ]
     },
     {
-      "Route": "js/simulator.js",
-      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\wf2fglqy4o-ywh66ysinq.gz",
+      "Route": "js/simulator.d7c2hxxt0y.js",
+      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\wf2fglqy4o-d7c2hxxt0y.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002262443439"
+          "Quality": "0.000527148129"
         }
       ],
       "ResponseHeaders": [
@@ -3825,19 +4165,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "441"
+          "Value": "1896"
         },
         {
           "Name": "ETag",
-          "Value": "\"RBUHXrhLuXQqbj85xmi24zp84wVs45xfDQ952sTAfL8=\""
+          "Value": "\"UmG0QvWjiuBDExqIwkUHtjTsZn3M45omoVDMU1//y18=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:42:31 GMT"
+          "Value": "Thu, 08 May 2025 07:25:22 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3853,18 +4193,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Mm7t4HlC8XF+iLCMB7YkgXlsMFhw/z+HfAPZae9aSF8=\""
+          "Value": "W/\"tzD1rrhNK7WYWhKkhtbuoHwfB6XRsmtCNaVqomA39Ps=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "d7c2hxxt0y"
+        },
+        {
+          "Name": "label",
+          "Value": "js/simulator.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-Mm7t4HlC8XF+iLCMB7YkgXlsMFhw/z+HfAPZae9aSF8="
+          "Value": "sha256-tzD1rrhNK7WYWhKkhtbuoHwfB6XRsmtCNaVqomA39Ps="
         }
       ]
     },
     {
-      "Route": "js/simulator.js",
+      "Route": "js/simulator.d7c2hxxt0y.js",
       "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\js\\simulator.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3874,7 +4222,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "810"
+          "Value": "6356"
         },
         {
           "Name": "Content-Type",
@@ -3882,121 +4230,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Mm7t4HlC8XF+iLCMB7YkgXlsMFhw/z+HfAPZae9aSF8=\""
+          "Value": "\"tzD1rrhNK7WYWhKkhtbuoHwfB6XRsmtCNaVqomA39Ps=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:42:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Mm7t4HlC8XF+iLCMB7YkgXlsMFhw/z+HfAPZae9aSF8="
-        }
-      ]
-    },
-    {
-      "Route": "js/simulator.js.gz",
-      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\wf2fglqy4o-ywh66ysinq.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "441"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RBUHXrhLuXQqbj85xmi24zp84wVs45xfDQ952sTAfL8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:42:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RBUHXrhLuXQqbj85xmi24zp84wVs45xfDQ952sTAfL8="
-        }
-      ]
-    },
-    {
-      "Route": "js/simulator.ywh66ysinq.js",
-      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\wf2fglqy4o-ywh66ysinq.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002262443439"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "441"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RBUHXrhLuXQqbj85xmi24zp84wVs45xfDQ952sTAfL8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:42:31 GMT"
+          "Value": "Thu, 08 May 2025 07:25:22 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Mm7t4HlC8XF+iLCMB7YkgXlsMFhw/z+HfAPZae9aSF8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ywh66ysinq"
+          "Value": "d7c2hxxt0y"
         },
         {
           "Name": "label",
@@ -4004,13 +4252,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Mm7t4HlC8XF+iLCMB7YkgXlsMFhw/z+HfAPZae9aSF8="
+          "Value": "sha256-tzD1rrhNK7WYWhKkhtbuoHwfB6XRsmtCNaVqomA39Ps="
         }
       ]
     },
     {
-      "Route": "js/simulator.ywh66ysinq.js",
-      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\js\\simulator.js",
+      "Route": "js/simulator.d7c2hxxt0y.js.gz",
+      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\wf2fglqy4o-d7c2hxxt0y.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4019,7 +4267,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "810"
+          "Value": "1896"
         },
         {
           "Name": "Content-Type",
@@ -4027,56 +4275,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Mm7t4HlC8XF+iLCMB7YkgXlsMFhw/z+HfAPZae9aSF8=\""
+          "Value": "\"UmG0QvWjiuBDExqIwkUHtjTsZn3M45omoVDMU1//y18=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:42:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ywh66ysinq"
-        },
-        {
-          "Name": "label",
-          "Value": "js/simulator.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Mm7t4HlC8XF+iLCMB7YkgXlsMFhw/z+HfAPZae9aSF8="
-        }
-      ]
-    },
-    {
-      "Route": "js/simulator.ywh66ysinq.js.gz",
-      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\wf2fglqy4o-ywh66ysinq.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "441"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RBUHXrhLuXQqbj85xmi24zp84wVs45xfDQ952sTAfL8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:42:31 GMT"
+          "Value": "Thu, 08 May 2025 07:25:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4094,7 +4297,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ywh66ysinq"
+          "Value": "d7c2hxxt0y"
         },
         {
           "Name": "label",
@@ -4102,7 +4305,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RBUHXrhLuXQqbj85xmi24zp84wVs45xfDQ952sTAfL8="
+          "Value": "sha256-UmG0QvWjiuBDExqIwkUHtjTsZn3M45omoVDMU1//y18="
+        }
+      ]
+    },
+    {
+      "Route": "js/simulator.js",
+      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\wf2fglqy4o-d7c2hxxt0y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000527148129"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1896"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UmG0QvWjiuBDExqIwkUHtjTsZn3M45omoVDMU1//y18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 07:25:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tzD1rrhNK7WYWhKkhtbuoHwfB6XRsmtCNaVqomA39Ps=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tzD1rrhNK7WYWhKkhtbuoHwfB6XRsmtCNaVqomA39Ps="
+        }
+      ]
+    },
+    {
+      "Route": "js/simulator.js",
+      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\js\\simulator.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tzD1rrhNK7WYWhKkhtbuoHwfB6XRsmtCNaVqomA39Ps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 07:25:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tzD1rrhNK7WYWhKkhtbuoHwfB6XRsmtCNaVqomA39Ps="
+        }
+      ]
+    },
+    {
+      "Route": "js/simulator.js.gz",
+      "AssetFile": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\obj\\Debug\\net9.0\\compressed\\wf2fglqy4o-d7c2hxxt0y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UmG0QvWjiuBDExqIwkUHtjTsZn3M45omoVDMU1//y18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 07:25:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UmG0QvWjiuBDExqIwkUHtjTsZn3M45omoVDMU1//y18="
         }
       ]
     },

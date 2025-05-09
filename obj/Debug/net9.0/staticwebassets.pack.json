@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\images\\chrome_6UyyYDCn75.png"
     },
     {
+      "Id": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\js\\planner.js",
+      "PackagePath": "staticwebassets\\js\\planner.js"
+    },
+    {
       "Id": "C:\\Users\\yamakoshi\\Desktop\\learning\\C#\\my-C#2\\wwwroot\\js\\quiz.js",
       "PackagePath": "staticwebassets\\js\\quiz.js"
     },

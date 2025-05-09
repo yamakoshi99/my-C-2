@@ -95,5 +95,6 @@ C:\Users\yamakoshi\Desktop\learning\C#\my-C#2\obj\Debug\net9.0\refint\my-C#2.dll
 C:\Users\yamakoshi\Desktop\learning\C#\my-C#2\obj\Debug\net9.0\my-C#2.pdb
 C:\Users\yamakoshi\Desktop\learning\C#\my-C#2\obj\Debug\net9.0\my-C#2.genruntimeconfig.cache
 C:\Users\yamakoshi\Desktop\learning\C#\my-C#2\obj\Debug\net9.0\ref\my-C#2.dll
-C:\Users\yamakoshi\Desktop\learning\C#\my-C#2\obj\Debug\net9.0\compressed\0yzoxay88q-nawm79up4n.gz
-C:\Users\yamakoshi\Desktop\learning\C#\my-C#2\obj\Debug\net9.0\compressed\wf2fglqy4o-ywh66ysinq.gz
+C:\Users\yamakoshi\Desktop\learning\C#\my-C#2\obj\Debug\net9.0\compressed\wf2fglqy4o-d7c2hxxt0y.gz
+C:\Users\yamakoshi\Desktop\learning\C#\my-C#2\obj\Debug\net9.0\compressed\is3dht2a20-kjrz6xslhq.gz
+C:\Users\yamakoshi\Desktop\learning\C#\my-C#2\obj\Debug\net9.0\compressed\0yzoxay88q-zisx483vrd.gz

@@ -1,0 +1,112 @@
+﻿@{
+    ViewData["Title"] = "プランナー";
+}
+
+<div class="container">
+    <div class="col-md-10 text-center">
+        <h1 class="display-4 mb-4 text-danger fw-bold"><i class="bi bi-pencil-square"></i>プランナー</h1>
+        <p class="lead mb-4">自分だけの投資プランを作成してみよう！</p>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h5>投資種類の選択</h5>
+                </div>
+                <div class="card-body">
+                    <div class="mb-3">
+                        <label for="investment-type" class="form-label">投資種類</label>
+                        <select class="form-select" id="investment-type">
+                            <option value="" selected disabled>投資タイプを選択してください</option>
+                            <option value="deposit" data-risk="1">預貯金（リスク: 1）</option>
+                            <option value="govbond" data-risk="2">個人向け国債（リスク: 2）</option>
+                            <option value="bondfund" data-risk="3.5">国内外の債券ファンド（リスク: 3-4）</option>
+                            <option value="corpbond" data-risk="4">社債（リスク: 3-5）</option>
+                            <option value="reit" data-risk="6">REIT（リスク: 5-7）</option>
+                            <option value="balanced" data-risk="6">バランス型投資信託（リスク: 5-7）</option>
+                            <option value="stockfund" data-risk="7">株式ファンド（リスク: 6-8）</option>
+                            <option value="stock" data-risk="8">個別株式（リスク: 7-9）</option>
+                            <option value="realestate" data-risk="7">現物不動産投資（リスク: 6-8）</option>
+                            <option value="commodity" data-risk="8.5">商品先物取引（リスク: 8-9）</option>
+                            <option value="fx" data-risk="9.5">FX（リスク: 9-10）</option>
+                            <option value="crypto" data-risk="9.5">仮想通貨（リスク: 9-10）</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="investment-percentage" class="form-label">割合 (%)</label>
+                        <input type="number" class="form-control" id="investment-percentage" min="1" max="100" value="10">
+                    </div>
+                    <button id="add-investment" class="btn btn-primary">追加</button>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="card-header">
+                    <h5>現在の投資内訳</h5>
+                </div>
+                <div class="card-body">
+                    <table class="table table-striped" id="investment-table">
+                        <thead>
+                            <tr>
+                                <th>投資種類</th>
+                                <th>割合 (%)</th>
+                                <th>リスク</th>
+                                <th>操作</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- 投資データがここに入ります -->
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th>合計</th>
+                                <th id="total-percentage">0%</th>
+                                <th>平均リスク: <span id="average-risk">0</span></th>
+                                <th></th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                    <div class="alert alert-warning d-none" id="percentage-warning">
+                        合計が100%になるように調整してください。
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5>ポートフォリオ分析</h5>
+                </div>
+                <div class="card-body">
+                    <div class="text-center mb-4">
+                        <canvas id="portfolio-chart" width="300" height="300"></canvas>
+                    </div>
+                    <div class="risk-meter">
+                        <h6>総合リスク評価</h6>
+                        <div class="progress">
+                            <div id="risk-meter-bar" class="progress-bar" role="progressbar" style="width: 0%;" 
+                                aria-valuenow="0" aria-valuemin="0" aria-valuemax="10">0/10</div>
+                        </div>
+                        <div class="d-flex justify-content-between mt-2">
+                            <span>低リスク</span>
+                            <span>中リスク</span>
+                            <span>高リスク</span>
+                        </div>
+                    </div>
+                    <div class="mt-4">
+                        <h6>リスク解説</h6>
+                        <p id="risk-description" class="small">
+                            投資を追加すると、ここにリスク評価の解説が表示されます。
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="~/js/planner.js"></script>
+}

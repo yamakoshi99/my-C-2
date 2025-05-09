@@ -3,6 +3,7 @@ let timeLeft;
 let maxTime;
 let interval = 50; // ms
 let correctAnswer;
+const timeBuffer = 0.5; // 時間切れ判定に0.5秒の余裕を持たせる
 
 function startQuiz(questionText, answerIsTrue, seconds = 10) {
     maxTime = seconds;
@@ -32,14 +33,24 @@ function startQuiz(questionText, answerIsTrue, seconds = 10) {
 function updateQuizTimer() {
     timeLeft -= interval / 1000;
     document.getElementById("timer").textContent = `残り時間: ${Math.max(0, Math.ceil(timeLeft))}秒`;
+    
+    // 進捗バーの表示を調整
     let percent = Math.max(0, (timeLeft / maxTime) * 100);
     let bar = document.getElementById("timeBar");
     bar.style.width = percent + "%";
     bar.setAttribute("aria-valuenow", percent);
 
+    // 時間が0以下になった場合
     if (timeLeft <= 0) {
         clearInterval(timer);
-        showQuizResult("時間切れです。");
+        // 進捗バーを完全に消す
+        bar.style.width = "0%";
+        bar.setAttribute("aria-valuenow", 0);
+        
+        // わずかな遅延を入れて、進捗バーが完全になくなってから結果を表示
+        setTimeout(() => {
+            showQuizResult("時間切れです。");
+        }, 500); // 0.5秒後に表示
     }
 }
 
