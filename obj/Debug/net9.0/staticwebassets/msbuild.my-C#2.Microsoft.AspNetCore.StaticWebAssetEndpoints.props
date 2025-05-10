@@ -40,13 +40,25 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\minigame.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fp4b558v0t"},{"Name":"integrity","Value":"sha256-bXrcFhLXOC/OmLKvMsICG\u002BACQn0jADF/MhwuKxaMLb0="},{"Name":"label","Value":"_content/my-C#2/js/minigame.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8668"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022bXrcFhLXOC/OmLKvMsICG\u002BACQn0jADF/MhwuKxaMLb0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 05:50:58 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8668"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022bXrcFhLXOC/OmLKvMsICG\u002BACQn0jADF/MhwuKxaMLb0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 06:49:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/my-C#2/js/minigame.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\minigame.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bXrcFhLXOC/OmLKvMsICG\u002BACQn0jADF/MhwuKxaMLb0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8668"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022bXrcFhLXOC/OmLKvMsICG\u002BACQn0jADF/MhwuKxaMLb0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 05:50:58 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8668"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022bXrcFhLXOC/OmLKvMsICG\u002BACQn0jADF/MhwuKxaMLb0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 06:49:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/my-C#2/js/minigame2.2fcpugkjga.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\minigame2.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2fcpugkjga"},{"Name":"integrity","Value":"sha256-4tbe6AC519umRzv5ZzKkTwYVr2uwwUNhPQ5D0jh4Lwo="},{"Name":"label","Value":"_content/my-C#2/js/minigame2.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4063"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224tbe6AC519umRzv5ZzKkTwYVr2uwwUNhPQ5D0jh4Lwo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 06:47:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/my-C#2/js/minigame2.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\minigame2.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4tbe6AC519umRzv5ZzKkTwYVr2uwwUNhPQ5D0jh4Lwo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4063"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224tbe6AC519umRzv5ZzKkTwYVr2uwwUNhPQ5D0jh4Lwo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 06:47:33 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/my-C#2/js/planner.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\planner.js'))</AssetFile>

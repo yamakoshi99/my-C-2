@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets/js/minigame.js"
     },
     {
+      "Id": "/Users/yamakoshitakuya/Downloads/my-C#2/wwwroot/js/minigame2.js",
+      "PackagePath": "staticwebassets/js/minigame2.js"
+    },
+    {
       "Id": "/Users/yamakoshitakuya/Downloads/my-C#2/wwwroot/js/planner.js",
       "PackagePath": "staticwebassets/js/planner.js"
     },

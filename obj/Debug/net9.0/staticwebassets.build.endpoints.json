@@ -721,7 +721,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 05:50:58 GMT"
+          "Value": "Sat, 10 May 2025 06:49:22 GMT"
         },
         {
           "Name": "Vary",
@@ -770,7 +770,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 05:50:58 GMT"
+          "Value": "Sat, 10 May 2025 06:49:22 GMT"
         }
       ],
       "EndpointProperties": [
@@ -819,7 +819,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 05:50:58 GMT"
+          "Value": "Sat, 10 May 2025 06:49:22 GMT"
         },
         {
           "Name": "Vary",
@@ -882,7 +882,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 05:50:58 GMT"
+          "Value": "Sat, 10 May 2025 06:49:22 GMT"
         },
         {
           "Name": "Vary",
@@ -923,7 +923,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 05:50:58 GMT"
+          "Value": "Sat, 10 May 2025 06:49:22 GMT"
         }
       ],
       "EndpointProperties": [
@@ -964,7 +964,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 05:50:58 GMT"
+          "Value": "Sat, 10 May 2025 06:49:22 GMT"
         },
         {
           "Name": "Vary",
@@ -975,6 +975,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-6Hmpwh3xz6PI91zzwtc9aFahs71mtNAl4moFEg3oDRE="
+        }
+      ]
+    },
+    {
+      "Route": "js/minigame2.2fcpugkjga.js",
+      "AssetFile": "js/minigame2.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000674763833"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XctERyniPS5meng3bVfowXRU4uX3c1Uxvw5E+UgtYTY=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4tbe6AC519umRzv5ZzKkTwYVr2uwwUNhPQ5D0jh4Lwo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 06:47:33 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2fcpugkjga"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4tbe6AC519umRzv5ZzKkTwYVr2uwwUNhPQ5D0jh4Lwo="
+        },
+        {
+          "Name": "label",
+          "Value": "js/minigame2.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/minigame2.2fcpugkjga.js",
+      "AssetFile": "js/minigame2.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4tbe6AC519umRzv5ZzKkTwYVr2uwwUNhPQ5D0jh4Lwo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 06:47:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2fcpugkjga"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4tbe6AC519umRzv5ZzKkTwYVr2uwwUNhPQ5D0jh4Lwo="
+        },
+        {
+          "Name": "label",
+          "Value": "js/minigame2.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/minigame2.2fcpugkjga.js.gz",
+      "AssetFile": "js/minigame2.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XctERyniPS5meng3bVfowXRU4uX3c1Uxvw5E+UgtYTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 06:47:33 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2fcpugkjga"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XctERyniPS5meng3bVfowXRU4uX3c1Uxvw5E+UgtYTY="
+        },
+        {
+          "Name": "label",
+          "Value": "js/minigame2.js.gz"
+        }
+      ]
+    },
+    {
+      "Route": "js/minigame2.js",
+      "AssetFile": "js/minigame2.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000674763833"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XctERyniPS5meng3bVfowXRU4uX3c1Uxvw5E+UgtYTY=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4tbe6AC519umRzv5ZzKkTwYVr2uwwUNhPQ5D0jh4Lwo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 06:47:33 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4tbe6AC519umRzv5ZzKkTwYVr2uwwUNhPQ5D0jh4Lwo="
+        }
+      ]
+    },
+    {
+      "Route": "js/minigame2.js",
+      "AssetFile": "js/minigame2.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4tbe6AC519umRzv5ZzKkTwYVr2uwwUNhPQ5D0jh4Lwo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 06:47:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4tbe6AC519umRzv5ZzKkTwYVr2uwwUNhPQ5D0jh4Lwo="
+        }
+      ]
+    },
+    {
+      "Route": "js/minigame2.js.gz",
+      "AssetFile": "js/minigame2.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XctERyniPS5meng3bVfowXRU4uX3c1Uxvw5E+UgtYTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 06:47:33 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XctERyniPS5meng3bVfowXRU4uX3c1Uxvw5E+UgtYTY="
         }
       ]
     },
