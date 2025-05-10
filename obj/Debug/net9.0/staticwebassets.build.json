@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+Wdxz2xz4yzuYmkfvhIrnUsP18eAPoqAvyuZcC1qM7s=",
+  "Hash": "oz8D+/vjvQAY44UC/0Di5pKF2zgUJwr4q7sgafRhPq0=",
   "Source": "my-C#2",
   "BasePath": "_content/my-C#2",
   "Mode": "Default",
@@ -624,6 +624,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/yamakoshitakuya/Downloads/my-C#2/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "/Users/yamakoshitakuya/Downloads/my-C#2/obj/Debug/net9.0/compressed/hcwc6lm5ua-fp4b558v0t.gz",
+      "SourceId": "my-C#2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yamakoshitakuya/Downloads/my-C#2/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/my-C#2",
+      "RelativePath": "js/minigame#[.{fingerprint=fp4b558v0t}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/yamakoshitakuya/Downloads/my-C#2/wwwroot/js/minigame.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "k123h2euhb",
+      "Integrity": "6Hmpwh3xz6PI91zzwtc9aFahs71mtNAl4moFEg3oDRE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/yamakoshitakuya/Downloads/my-C#2/wwwroot/js/minigame.js"
     },
     {
       "Identity": "/Users/yamakoshitakuya/Downloads/my-C#2/obj/Debug/net9.0/compressed/is3dht2a20-kjrz6xslhq.gz",
@@ -1527,6 +1548,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/chrome_6UyyYDCn75.png"
+    },
+    {
+      "Identity": "/Users/yamakoshitakuya/Downloads/my-C#2/wwwroot/js/minigame.js",
+      "SourceId": "my-C#2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yamakoshitakuya/Downloads/my-C#2/wwwroot/",
+      "BasePath": "_content/my-C#2",
+      "RelativePath": "js/minigame#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fp4b558v0t",
+      "Integrity": "bXrcFhLXOC/OmLKvMsICG+ACQn0jADF/MhwuKxaMLb0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/minigame.js"
     },
     {
       "Identity": "/Users/yamakoshitakuya/Downloads/my-C#2/wwwroot/js/planner.js",
@@ -3553,6 +3595,304 @@
       ]
     },
     {
+      "Route": "js/minigame.fp4b558v0t.js",
+      "AssetFile": "/Users/yamakoshitakuya/Downloads/my-C#2/obj/Debug/net9.0/compressed/hcwc6lm5ua-fp4b558v0t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000381242852"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2622"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Hmpwh3xz6PI91zzwtc9aFahs71mtNAl4moFEg3oDRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 05:50:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bXrcFhLXOC/OmLKvMsICG+ACQn0jADF/MhwuKxaMLb0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fp4b558v0t"
+        },
+        {
+          "Name": "label",
+          "Value": "js/minigame.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bXrcFhLXOC/OmLKvMsICG+ACQn0jADF/MhwuKxaMLb0="
+        }
+      ]
+    },
+    {
+      "Route": "js/minigame.fp4b558v0t.js",
+      "AssetFile": "/Users/yamakoshitakuya/Downloads/my-C#2/wwwroot/js/minigame.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bXrcFhLXOC/OmLKvMsICG+ACQn0jADF/MhwuKxaMLb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 05:50:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fp4b558v0t"
+        },
+        {
+          "Name": "label",
+          "Value": "js/minigame.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bXrcFhLXOC/OmLKvMsICG+ACQn0jADF/MhwuKxaMLb0="
+        }
+      ]
+    },
+    {
+      "Route": "js/minigame.fp4b558v0t.js.gz",
+      "AssetFile": "/Users/yamakoshitakuya/Downloads/my-C#2/obj/Debug/net9.0/compressed/hcwc6lm5ua-fp4b558v0t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Hmpwh3xz6PI91zzwtc9aFahs71mtNAl4moFEg3oDRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 05:50:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fp4b558v0t"
+        },
+        {
+          "Name": "label",
+          "Value": "js/minigame.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Hmpwh3xz6PI91zzwtc9aFahs71mtNAl4moFEg3oDRE="
+        }
+      ]
+    },
+    {
+      "Route": "js/minigame.js",
+      "AssetFile": "/Users/yamakoshitakuya/Downloads/my-C#2/obj/Debug/net9.0/compressed/hcwc6lm5ua-fp4b558v0t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000381242852"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2622"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Hmpwh3xz6PI91zzwtc9aFahs71mtNAl4moFEg3oDRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 05:50:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bXrcFhLXOC/OmLKvMsICG+ACQn0jADF/MhwuKxaMLb0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bXrcFhLXOC/OmLKvMsICG+ACQn0jADF/MhwuKxaMLb0="
+        }
+      ]
+    },
+    {
+      "Route": "js/minigame.js",
+      "AssetFile": "/Users/yamakoshitakuya/Downloads/my-C#2/wwwroot/js/minigame.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bXrcFhLXOC/OmLKvMsICG+ACQn0jADF/MhwuKxaMLb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 05:50:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bXrcFhLXOC/OmLKvMsICG+ACQn0jADF/MhwuKxaMLb0="
+        }
+      ]
+    },
+    {
+      "Route": "js/minigame.js.gz",
+      "AssetFile": "/Users/yamakoshitakuya/Downloads/my-C#2/obj/Debug/net9.0/compressed/hcwc6lm5ua-fp4b558v0t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Hmpwh3xz6PI91zzwtc9aFahs71mtNAl4moFEg3oDRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 05:50:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Hmpwh3xz6PI91zzwtc9aFahs71mtNAl4moFEg3oDRE="
+        }
+      ]
+    },
+    {
       "Route": "js/planner.js",
       "AssetFile": "/Users/yamakoshitakuya/Downloads/my-C#2/obj/Debug/net9.0/compressed/is3dht2a20-kjrz6xslhq.gz",
       "Selectors": [
@@ -4173,7 +4513,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 05:14:53 GMT"
+          "Value": "Sat, 10 May 2025 05:51:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4226,7 +4566,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 05:14:53 GMT"
+          "Value": "Sat, 10 May 2025 05:51:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4263,7 +4603,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 05:14:53 GMT"
+          "Value": "Sat, 10 May 2025 05:51:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4310,7 +4650,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 05:14:53 GMT"
+          "Value": "Sat, 10 May 2025 05:51:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4371,7 +4711,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 05:14:53 GMT"
+          "Value": "Sat, 10 May 2025 05:51:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4416,7 +4756,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 05:14:53 GMT"
+          "Value": "Sat, 10 May 2025 05:51:37 GMT"
         },
         {
           "Name": "Cache-Control",

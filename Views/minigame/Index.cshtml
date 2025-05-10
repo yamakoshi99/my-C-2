@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "おつかいマスター";
+}
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-md-10 text-center">
+            <h1 class="display-4 mb-4 text-primary fw-bold">おつかいマスター</h1>
+            <p class="lead mb-4">お母さんに頼まれたお買い物を、予算内で上手にできるかな？</p>
+        </div>
+    </div>
+    <div class="row justify-content-center mt-4">
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h3 class="mb-3">キャラクターを選んでね</h3>
+                    <div id="character-select" class="d-flex justify-content-center flex-wrap gap-4 mb-4">
+                        <!-- キャラクター選択肢（JSで生成） -->
+                    </div>
+                    <button id="startGameBtn" class="btn btn-lg btn-success" disabled>ゲームスタート</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/minigame.js"></script>
+}

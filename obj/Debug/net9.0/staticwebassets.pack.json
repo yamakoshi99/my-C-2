@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets/images/chrome_6UyyYDCn75.png"
     },
     {
+      "Id": "/Users/yamakoshitakuya/Downloads/my-C#2/wwwroot/js/minigame.js",
+      "PackagePath": "staticwebassets/js/minigame.js"
+    },
+    {
       "Id": "/Users/yamakoshitakuya/Downloads/my-C#2/wwwroot/js/planner.js",
       "PackagePath": "staticwebassets/js/planner.js"
     },

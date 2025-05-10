@@ -198,3 +198,5 @@ C:/Users/yamakoshi/Desktop/learning/C#/my-C#2/obj/Debug/net9.0/compressed/0yzoxa
 /Users/yamakoshitakuya/Downloads/my-C#2/obj/Debug/net9.0/my-C#2.genruntimeconfig.cache
 /Users/yamakoshitakuya/Downloads/my-C#2/obj/Debug/net9.0/ref/my-C#2.dll
 /Users/yamakoshitakuya/Downloads/my-C#2/obj/Debug/net9.0/compressed/wf2fglqy4o-lx5wbph61h.gz
+/Users/yamakoshitakuya/Downloads/my-C#2/obj/Debug/net9.0/my-C#2.sourcelink.json
+/Users/yamakoshitakuya/Downloads/my-C#2/obj/Debug/net9.0/compressed/hcwc6lm5ua-fp4b558v0t.gz
