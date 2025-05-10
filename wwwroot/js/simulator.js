@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let history = [];
 
     // 初期データ
-    for (let i = 0; i < 30; i++) {
+    for (let i = 0; i < 60; i++) {
         labels.push(i.toString());
         data.push(price);
         price += Math.round((Math.random() - 0.5) * 10);
@@ -117,15 +117,14 @@ document.addEventListener('DOMContentLoaded', function () {
             chart.data.datasets[1].data.push(null);
         }
 
-        if (chart.data.datasets[0].data.length > 30) {
+        if (chart.data.datasets[0].data.length > 60) {
             chart.data.datasets[0].data.shift();
             chart.data.datasets[1].data.shift();
             chart.data.labels.shift();
             if (entryIndex !== null) entryIndex--;
             if (entryIndex !== null && entryIndex < 0) {
-                entryIndex = null;
-                entryPrice = null;
-                isHolding = false;
+                // 強制売却処理
+                sellStock(true); // trueを渡して「自動売却」扱いに
             }
         }
 
@@ -150,13 +149,13 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     // 売る
-    function sellStock() {
+    function sellStock(isAuto = false) {
         if (!isHolding) return;
         let nowIndex = chart.data.datasets[0].data.length - 1;
         let nowPrice = chart.data.datasets[0].data[nowIndex];
         balance += nowPrice;
         let profit = nowPrice - entryPrice;
-        history.unshift({ buy: entryPrice, sell: nowPrice, profit: profit });
+        history.unshift({ buy: entryPrice, sell: nowPrice, profit: profit, auto: isAuto });
         isHolding = false;
         entryIndex = null;
         entryPrice = null;
